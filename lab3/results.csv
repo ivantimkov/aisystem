@@ -1,0 +1,5 @@
+﻿Модель,Accuracy,"Час, сек","Параметрів, млн",val_loss,Тип експерименту
+miniGPT v1,,27.52,0.32,4.9401062488555905,mini-GPT
+miniGPT v2,,71.96,0.73,4.536169147491455,mini-GPT
+lxyuan/distilbert-base-multilingual-cased-sentiments-student,0.8,3.71,135.33,,Порівняння готових моделей
+cardiffnlp/twitter-xlm-roberta-base-sentiment,1.0,4.67,278.05,,Порівняння готових моделей
